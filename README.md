@@ -1,2 +1,4 @@
-# 06-homework
- Problem set for learning how to use Pandas with a database of billionaires. 
+# Homework 6
+In this notebook, I practiced using the Pandase package with two csv files:
+- Animals
+- Billionaires
